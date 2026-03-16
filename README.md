@@ -31,5 +31,6 @@ startups and Fortune 500 clients.
 ### Find me
 
 - Portfolio: [AaronMinnamon.github.io](https://AaronMinnamon.github.io)
+- CodePen: [https://codepen.io/iamminn](https://codepen.io/iamminn)
 - Email: aminnamon18@gmail.com
 - LinkedIn: [linkedin.com/in/AaronMinnamon](https://linkedin.com/in/AaronMinnamon)
