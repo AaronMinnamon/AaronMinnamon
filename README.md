@@ -1,4 +1,4 @@
-# Hi, I'm Aaron Minnamon
+# Hi, I'm Aaron
 
 Senior Front-End Engineer with 10+ years building scalable React
 applications, design systems, and CI/CD pipelines for product-driven
