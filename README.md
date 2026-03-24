@@ -4,6 +4,8 @@ Senior Front-End Engineer with 10+ years building scalable React
 applications, design systems, and CI/CD pipelines for product-driven
 startups and Fortune 500 clients.
 
+Founder of acera.app
+
 **Currently open to:** Senior IC and Lead Frontend roles (remote/hybrid)
 
 ---
